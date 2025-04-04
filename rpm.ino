@@ -1,6 +1,6 @@
 #define ENCODER_PIN_A 4  // GPIO pin for encoder A signal
 #define ENCODER_PIN_B 5  // GPIO pin for encoder B signal
-#define PULSES_PER_REV 3 // Number of pulses per revolution
+#define PULSES_PER_REV 2100// Number of pulses per revolution
 
 volatile int pulseCount = 0;     // Pulse counter
 volatile bool direction = true; // true: forward, false: backward
