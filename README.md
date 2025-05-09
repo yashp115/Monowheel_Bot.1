@@ -97,8 +97,8 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 
 ## 👨‍💻 Contributors
 
-- **Rahul Kumar**
 - **Yash Pund**
+- **Rahul Kumar**
 - **Varad Desai**
 - **Aditya Naik**
 
